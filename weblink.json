@@ -4,35 +4,710 @@
         "nama_website": "Dicoding",
         "kategori": "Kursus Pembelajaran",
         "link_website": "https://www.dicoding.com/",
-        "deskripsi": "Website pembelajaran yang telah dipakai oleh banyak programmer di Indonesia",
-        "created_at": "2023-05-26T00:00:00.000000Z",
+        "deskripsi": "Dicoding adalah platform belajar online yang fokus pada pengembangan aplikasi dan teknologi. Mereka menawarkan berbagai kursus dan pelatihan interaktif dalam bidang pemrograman, desain, data science, dan lainnya.",
+        "created_at": null,
         "updated_at": null
     },
     {
         "id": 2,
-        "nama_website": "Build With Angga",
+        "nama_website": "BWA",
         "kategori": "Kursus Pembelajaran",
         "link_website": "https://buildwithangga.com/",
-        "deskripsi": "Website pembelajaran coding",
-        "created_at": "2023-05-26T00:00:00.000000Z",
+        "deskripsi": "BWA (BuildWithAngga) adalah platform pembelajaran online yang mengajarkan desain UI/UX dan pengembangan web. Mereka menyediakan kursus interaktif dan konten pembelajaran berkualitas dalam bentuk video tutorial, materi teori, dan proyek praktis.",
+        "created_at": null,
         "updated_at": null
     },
     {
         "id": 3,
-        "nama_website": "Petani Kode",
-        "kategori": "Kursus Pembelajaran",
-        "link_website": "https://www.petanikode.com/",
-        "deskripsi": "Course gratis",
-        "created_at": "2023-05-26T00:00:00.000000Z",
+        "nama_website": "Undraw",
+        "kategori": "Ilustrasi",
+        "link_website": "https://undraw.co/",
+        "deskripsi": "Undraw adalah situs web yang menyediakan koleksi gambar vektor yang dapat diunduh secara gratis. Gambar-gambar ini dirancang dengan gaya ilustrasi minimalis yang modern. ",
+        "created_at": null,
         "updated_at": null
     },
     {
         "id": 4,
+        "nama_website": "Storyset",
+        "kategori": "Ilustrasi",
+        "link_website": "https://storyset.com/",
+        "deskripsi": "Storyset adalah platform yang menyediakan ilustrasi vektor animasi yang dapat disesuaikan secara gratis. Mereka menawarkan berbagai tema dan karakter yang dapat digunakan untuk menciptakan cerita visual yang menarik.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nama_website": "Icons8",
+        "kategori": "Ilustrasi",
+        "link_website": "https://icons8.com/",
+        "deskripsi": "Icons8 adalah situs web yang menyediakan berbagai ikon vektor yang dapat digunakan secara gratis. Mereka menawarkan koleksi ikon yang kaya dan beragam dalam berbagai gaya dan kategori.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "nama_website": "OpenDoodles",
+        "kategori": "Ilustrasi",
+        "link_website": "https://www.opendoodles.com/",
+        "deskripsi": "OpenDoodles adalah proyek yang menyediakan ilustrasi-illustrasi vektor yang ramah dan unik. Ilustrasi-illustrasi ini memiliki gaya yang sederhana dan warna-warna cerah.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "nama_website": "UseMash",
+        "kategori": "Ilustrasi",
+        "link_website": "https://usesmash.com/",
+        "deskripsi": "UseMash adalah situs web yang menyediakan berbagai gambar dan ilustrasi vektor dengan gaya minimalis dan modern. Mereka menawarkan koleksi gambar-gambar yang siap digunakan untuk berbagai keperluan desain.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "nama_website": "AbsurdDesign",
+        "kategori": "Ilustrasi",
+        "link_website": "https://absurd.design/",
+        "deskripsi": "AbsurdDesign adalah situs web yang menyediakan ilustrasi-illustrasi vektor dengan gaya yang unik dan kreatif. Mereka menawarkan berbagai gambar yang aneh dan lucu yang dapat digunakan dalam desain, presentasi, dan proyek-proyek lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "nama_website": "Humaaans",
+        "kategori": "Ilustrasi",
+        "link_website": "https://www.humaaans.com/",
+        "deskripsi": "Humaaans adalah proyek yang menyediakan ilustrasi-illustrasi vektor karakter yang dapat disesuaikan dan digunakan secara gratis. Ilustrasi ini dirancang untuk memungkinkan pengguna menciptakan kombinasi karakter dengan berbagai pose dan pakaian.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "nama_website": "ManyPixels",
+        "kategori": "Ilustrasi",
+        "link_website": "https://www.manypixels.co/gallery",
+        "deskripsi": "ManyPixels Illustrations adalah koleksi ilustrasi-illustrasi vektor yang dapat digunakan secara gratis untuk proyek desain. Mereka menawarkan berbagai gambar dengan gaya yang bersahaja dan modern, mencakup berbagai kategori dan tema.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "nama_website": "illustrations",
+        "kategori": "Ilustrasi",
+        "link_website": "https://illlustrations.co/",
+        "deskripsi": "Illustrations adalah situs web yang menyediakan koleksi ilustrasi-illustrasi vektor berkualitas tinggi. Mereka menawarkan berbagai gaya dan tema ilustrasi, seperti ilustrasi karakter, ilustrasi alam, ilustrasi objek, dan banyak lagi.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "nama_website": "PixelTrue",
+        "kategori": "Ilustrasi",
+        "link_website": "https://www.pixeltrue.com/packs",
+        "deskripsi": "PixelTrue adalah sumber daya desain yang menyediakan berbagai desain UI/UX dan ilustrasi-illustrasi berkualitas tinggi. Mereka menawarkan koleksi desain yang siap digunakan untuk berbagai platform, seperti web, aplikasi mobile, dan produk digital lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 13,
+        "nama_website": "ui8",
+        "kategori": "Ilustrasi",
+        "link_website": "https://ui8.net/",
+        "deskripsi": "UI8 adalah platform yang menyediakan berbagai sumber daya desain UI/UX, termasuk ilustrasi, mockup, template, dan elemen desain lainnya. Mereka menawarkan koleksi produk yang dikembangkan oleh desainer profesional, dengan fokus pada kualitas dan estetika.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "nama_website": "Drawkit",
+        "kategori": "Ilustrasi",
+        "link_website": "https://www.drawkit.com/",
+        "deskripsi": "Drawkit adalah situs web yang menyediakan ilustrasi-illustrasi vektor yang ramah dan unik. Mereka menawarkan berbagai set ilustrasi yang dapat digunakan dalam berbagai proyek desain, blog, presentasi, dan lainnya. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "nama_website": "Iradesign",
+        "kategori": "Ilustrasi",
+        "link_website": "https://iradesign.io/",
+        "deskripsi": "Iradesign adalah situs web yang menawarkan berbagai sumber daya desain, termasuk ilustrasi, ikon, template, dan mockup. Mereka menyediakan koleksi desain yang berkualitas tinggi dan menarik.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "nama_website": "ColorHunt",
+        "kategori": "Warna",
+        "link_website": "https://colorhunt.co/",
+        "deskripsi": "ColorHunt adalah sebuah platform online yang menyediakan koleksi palet warna yang inspiratif. Situs web ini menampilkan pilihan-pilihan warna yang harmonis dan menarik, yang dapat digunakan dalam desain grafis atau proyek kreatif lainnya. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 17,
+        "nama_website": "HappyHues",
+        "kategori": "Warna",
+        "link_website": "https://www.happyhues.co/",
+        "deskripsi": "HappyHues adalah sebuah situs web yang menginspirasi dengan menyediakan kombinasi warna yang ceria dan menyenangkan. Mereka menampilkan palet warna yang dirancang secara khusus untuk menciptakan suasana positif dan optimis.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "nama_website": "Coolors",
+        "kategori": "Warna",
+        "link_website": "https://coolors.co/",
+        "deskripsi": "Coolors adalah sebuah alat desain yang membantu pengguna dalam menciptakan palet warna yang kreatif dan menarik. Situs web ini menyediakan generator warna interaktif yang memungkinkan pengguna untuk mengeksplorasi berbagai kombinasi warna secara acak ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "nama_website": "Grabient",
+        "kategori": "Warna",
+        "link_website": "https://www.grabient.com/",
+        "deskripsi": "Grabient adalah sebuah platform yang menyediakan koleksi gradient warna yang memukau. Situs web ini menawarkan berbagai pilihan gradient yang indah dan dapat disesuaikan, yang dapat digunakan untuk memberikan sentuhan visual yang menarik.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 20,
+        "nama_website": "Behance",
+        "kategori": "Upload Desain",
+        "link_website": "https://www.behance.net/",
+        "deskripsi": "Behance adalah sebuah platform online yang menampilkan karya-karya kreatif dari berbagai bidang, seperti desain grafis, fotografi, ilustrasi, arsitektur, dan banyak lagi.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "nama_website": "Dribbbble",
+        "kategori": "Upload Desain",
+        "link_website": "https://dribbble.com/",
+        "deskripsi": "Dribbble adalah sebuah komunitas online yang fokus pada desain grafis, ilustrasi, animasi, dan pengembangan produk digital. Situs web Dribbble menyediakan platform bagi para desainer untuk memamerkan karya-karya mereka.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "nama_website": "Pinterst",
+        "kategori": "Upload Desain",
+        "link_website": "https://id.pinterest.com/",
+        "deskripsi": "Pinterest adalah sebuah platform visual yang memungkinkan pengguna untuk menemukan, menyimpan, dan berbagi inspirasi dalam berbagai kategori, seperti desain, mode, makanan, dekorasi, dan banyak lagi.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 23,
+        "nama_website": "Petani Kode",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://www.petanikode.com/",
+        "deskripsi": "Petani Kode adalah situs web yang menyediakan berbagai tutorial pemrograman dan sumber daya pembelajaran gratis. Mereka fokus pada pengembangan perangkat lunak, termasuk pemrograman web, aplikasi mobile, dan bahasa pemrograman populer lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
         "nama_website": "DevSaurus",
         "kategori": "Kursus Pembelajaran",
         "link_website": "https://devsaurus.com/",
-        "deskripsi": "Course gratis",
-        "created_at": "2023-05-26T00:00:00.000000Z",
+        "deskripsi": "DevSaurus adalah platform belajar online yang menyediakan kursus pemrograman dan pengembangan perangkat lunak. Mereka menawarkan konten pembelajaran yang disusun dengan baik dan dikembangkan oleh para profesional di industri IT.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "nama_website": "W3School",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://www.w3schools.com/",
+        "deskripsi": "W3Schools adalah situs web referensi dan tutorial yang populer untuk pemrograman web. Mereka menyediakan panduan lengkap tentang HTML, CSS, JavaScript, PHP, SQL, dan teknologi web lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 26,
+        "nama_website": "Progate",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://progate.com/",
+        "deskripsi": "Progate adalah platform pembelajaran online yang mengajarkan pemrograman web, pemrograman mobile, dan desain UI/UX. Mereka menawarkan kursus interaktif dengan antarmuka yang mudah digunakan, berisi materi teori, latihan coding, dan proyek praktis.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 27,
+        "nama_website": "Malas Ngoding",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://www.malasngoding.com/",
+        "deskripsi": "Malas Ngoding adalah situs web yang menyediakan tutorial pemrograman dan sumber daya pembelajaran gratis dalam bahasa Indonesia. Mereka fokus pada pemrograman web, pemrograman mobile, dan pengembangan perangkat lunak.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 28,
+        "nama_website": "000Webhost",
+        "kategori": "Web Hosting",
+        "link_website": "https://www.000webhost.com/",
+        "deskripsi": "000Webhost adalah penyedia layanan web hosting yang menawarkan paket hosting gratis. Mereka menyediakan platform bagi individu dan bisnis untuk menghostingkan situs web mereka tanpa biaya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 29,
+        "nama_website": "Hostinger",
+        "kategori": "Web Hosting",
+        "link_website": "https://www.hostinger.co.id/",
+        "deskripsi": "Hostinger adalah perusahaan web hosting yang menawarkan layanan hosting gratis dan berbayar. Mereka menyediakan antarmuka yang ramah pengguna dan berbagai fitur, termasuk pembuat situs web, installer satu-klik, dan panel kontrol canggih. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 30,
+        "nama_website": "DewaWeb",
+        "kategori": "Web Hosting",
+        "link_website": "https://www.dewaweb.com/",
+        "deskripsi": "DewaWeb adalah penyedia layanan web hosting yang berbasis di Indonesia. Mereka menawarkan berbagai solusi hosting, termasuk paket hosting gratis.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 31,
+        "nama_website": "Plesk",
+        "kategori": "Web Hosting",
+        "link_website": "https://www.plesk.com/",
+        "deskripsi": "Plesk adalah panel kontrol web hosting yang menyederhanakan manajemen situs web dan server. Mereka menawarkan antarmuka yang ramah pengguna dan berbagai alat untuk pemilik situs web, pengembang, dan penyedia hosting.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 32,
+        "nama_website": "InfinityFree",
+        "kategori": "Web Hosting",
+        "link_website": "https://www.infinityfree.com/",
+        "deskripsi": "InfinityFree adalah platform web hosting gratis yang menawarkan ruang disk dan bandwidth tanpa batas untuk menghostingkan situs web. Mereka menyediakan pembuat situs web yang mudah digunakan.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 33,
+        "nama_website": "AwardSpace",
+        "kategori": "Web Hosting",
+        "link_website": "https://www.awardspace.com/",
+        "deskripsi": "AwardSpace adalah penyedia layanan web hosting yang menawarkan layanan hosting gratis dan berbayar. Paket hosting gratis mereka mencakup ruang disk dan bandwidth terbatas, serta pembuat situs web dan akses FTP.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 34,
+        "nama_website": "Free Hosting",
+        "kategori": "Web Hosting",
+        "link_website": "https://freehosting.com/",
+        "deskripsi": "Free Hosting adalah layanan web hosting yang menawarkan paket hosting gratis dengan sumber daya dan fitur terbatas. Mereka menyediakan platform bagi pengguna untuk menghostingkan situs web mereka tanpa membayar biaya hosting.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 35,
+        "nama_website": "Neumorphism",
+        "kategori": "CSS Design",
+        "link_website": "https://neumorphism.io/#e0e0e0",
+        "deskripsi": "Neumorphism adalah sebuah desain UI yang mengadopsi gaya visual tiga dimensi dengan penekanan pada elemen tombol dan input yang terlihat menonjol atau embossed. Situs web Neumorphism menyediakan sumber daya, tutorial, dan contoh implementasi desain.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 36,
+        "nama_website": "Material Design Icon",
+        "kategori": "CSS Design",
+        "link_website": "https://pictogrammers.com/library/mdi/",
+        "deskripsi": "Material Design Icons adalah sebuah koleksi ikon yang dikembangkan oleh Google, dengan fokus pada desain yang bersih dan konsisten. Situs web Material Design Icons menyediakan berbagai ikon yang dapat digunakan secara gratis dalam proyek desain.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 37,
+        "nama_website": "CSS Gradient",
+        "kategori": "CSS Design",
+        "link_website": "https://cssgradient.io/",
+        "deskripsi": "CSS Gradient adalah sebuah alat online yang memudahkan pengguna untuk membuat dan menyesuaikan gradient warna menggunakan CSS. Situs web CSS Gradient menyediakan generator gradient yang interaktif, di mana pengguna dapat memilih warna dan jenis gradient.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 38,
+        "nama_website": "Uiverse",
+        "kategori": "CSS Design",
+        "link_website": "https://uiverse.io/",
+        "deskripsi": "Uiverse adalah sebuah platform online yang menampilkan koleksi desain UI/UX yang menarik dan inspiratif. Situs web Uiverse memamerkan berbagai tampilan antarmuka pengguna yang menonjolkan gaya visual, pemilihan warna dan interaksi yang menarik.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 39,
+        "nama_website": "Popper js",
+        "kategori": "CSS Design",
+        "link_website": "https://popper.js.org/",
+        "deskripsi": "Popper.js adalah sebuah perpustakaan JavaScript yang digunakan untuk membuat tooltip, popover, dan menu yang responsif dan interaktif. Situs web Popper.js menyediakan dokumentasi resmi, panduan penggunaan, dan contoh-contoh implementasi.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 40,
+        "nama_website": "CSS Tricks",
+        "kategori": "CSS Design",
+        "link_website": "https://css-tricks.com/",
+        "deskripsi": "CSS-Tricks adalah sebuah sumber daya online yang menyediakan artikel, tutorial, dan sumber daya seputar CSS, HTML, JavaScript, dan teknologi web terkait lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 41,
+        "nama_website": "Any API",
+        "kategori": "API",
+        "link_website": "https://any-api.com/",
+        "deskripsi": "Any API adalah sebuah Situs web Any API memungkinkan pengembang untuk menemukan, menguji, dan menggunakan beragam API yang dapat memperkaya aplikasi mereka.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 42,
+        "nama_website": "Open APIs",
+        "kategori": "API",
+        "link_website": "https://www.openapis.org/",
+        "deskripsi": "Open APIs adalah sebuah situs web yang mengumpulkan dan mengkurasi daftar dari API terbuka yang tersedia untuk pengembang. Mereka menyediakan katalog yang mencakup berbagai kategori API, seperti data geografis, finansial, sosial media, dan banyak lagi. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 43,
+        "nama_website": "Swagger",
+        "kategori": "API",
+        "link_website": "https://swagger.io/",
+        "deskripsi": "Swagger adalah sebuah spesifikasi dan kerangka kerja yang digunakan untuk mendefinisikan, membangun, dan mendokumentasikan API RESTful. Situs web Swagger menyediakan dokumentasi dan sumber daya untuk membantu pengembang.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 44,
+        "nama_website": "Stoplight",
+        "kategori": "API",
+        "link_website": "https://stoplight.io/",
+        "deskripsi": "Stoplight adalah sebuah platform yang menyediakan alat untuk merancang, menguji, dan mendokumentasikan API. Situs web Stoplight menyediakan sumber daya yang membantu pengembang dalam mengembangkan dan memelihara API yang kuat dan dapat diandalkan.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 45,
+        "nama_website": "CodingGame",
+        "kategori": "Game Code",
+        "link_website": "https://www.codingame.com/start",
+        "deskripsi": "CodingGame adalah sebuah platform yang menawarkan tantangan pemrograman interaktif dan permainan edukatif yang dirancang untuk membantu pengguna meningkatkan keterampilan pemrograman mereka.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 46,
+        "nama_website": "Flexboxfroggy",
+        "kategori": "Game Code",
+        "link_website": "https://flexboxfroggy.com/",
+        "deskripsi": "Flexboxfroggy adalah permainan interaktif yang didesain untuk membantu Anda belajar dan memahami konsep tata letak Flexbox dalam CSS. Melalui permainan ini, Anda akan diajak untuk mengatur posisi kodok-kodok menggunakan properti-properti Flexbox.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 47,
+        "nama_website": "Coderbyte",
+        "kategori": "Game Code",
+        "link_website": "https://coderbyte.com/",
+        "deskripsi": "Coderbyte adalah sebuah platform pembelajaran online yang menawarkan tantangan pemrograman, tutorial, dan latihan pemrograman untuk membantu Anda meningkatkan keterampilan pemrograman Anda.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 48,
+        "nama_website": "CodeChef",
+        "kategori": "Game Code",
+        "link_website": "https://www.codechef.com/",
+        "deskripsi": "CodeChef adalah sebuah komunitas pemrograman dan platform pembelajaran yang menawarkan tantangan pemrograman, kontes online, dan forum diskusi bagi pengguna yang tertarik dalam pengembangan perangkat lunak.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 49,
+        "nama_website": "CodeMonkey",
+        "kategori": "Game Code",
+        "link_website": "https://www.codemonkey.com/",
+        "deskripsi": "CodeMonkey adalah sebuah platform pembelajaran pemrograman yang ditujukan untuk anak-anak. Melalui permainan edukatif yang menarik, anak-anak dapat belajar bahasa pemrograman dengan cara yang menyenangkan.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 50,
+        "nama_website": "CodeCombat",
+        "kategori": "Game Code",
+        "link_website": "https://codecombat.com/",
+        "deskripsi": "CodeCombat adalah sebuah permainan online yang dirancang untuk mengajarkan pemrograman kepada pemula. Dalam permainan ini, Anda akan memprogram karakter Anda untuk melintasi medan perang dengan menulis kode JavaScript.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 51,
+        "nama_website": "ProjectEuler",
+        "kategori": "Game Code",
+        "link_website": "https://projecteuler.net/",
+        "deskripsi": "Project Euler adalah sebuah situs web yang menawarkan tantangan matematika dan pemrograman yang dirancang untuk mengembangkan keterampilan pemecahan masalah dan pemrograman.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 52,
+        "nama_website": "Exercism",
+        "kategori": "Game Code",
+        "link_website": "https://exercism.org/",
+        "deskripsi": "Exercism adalah sebuah platform pembelajaran pemrograman yang menawarkan latihan pemrograman interaktif dengan berbagai bahasa pemrograman. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 53,
+        "nama_website": "Flukeout",
+        "kategori": "Game Code",
+        "link_website": "https://flukeout.github.io/",
+        "deskripsi": "Flukeout adalah sebuah situs web permainan interaktif yang membantu pengguna untuk belajar dan memahami CSS melalui tantangan-tantangan berbasis CSS.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 54,
+        "nama_website": "TopCoder",
+        "kategori": "Game Code",
+        "link_website": "https://www.topcoder.com/",
+        "deskripsi": "TopCoder adalah sebuah platform daring yang menyelenggarakan kompetisi pemrograman dan menyediakan tantangan pemrograman yang membantu pengembang perangkat lunak meningkatkan keterampilan mereka.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 55,
+        "nama_website": "Hackerrank",
+        "kategori": "Game Code",
+        "link_website": "https://www.hackerrank.com/",
+        "deskripsi": "HackerRank adalah sebuah platform pembelajaran dan penilaian keterampilan pemrograman daring yang menyediakan tantangan pemrograman dalam berbagai bahasa dan domain, serta digunakan oleh perusahaan untuk menilai calon karyawan dalam proses perekrutan.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 56,
+        "nama_website": "Playcode",
+        "kategori": "Playground Code",
+        "link_website": "https://playcode.io/",
+        "deskripsi": "Playcode adalah sebuah editor kode online yang memungkinkan pengguna untuk menulis, menguji, dan menjalankan kode HTML, CSS, dan JavaScript secara langsung dalam browser.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 57,
+        "nama_website": "Jsfiddle",
+        "kategori": "Playground Code",
+        "link_website": "https://jsfiddle.net/",
+        "deskripsi": "JSFiddle adalah sebuah platform online yang memungkinkan pengguna untuk menguji dan berbagi kode HTML, CSS, dan JavaScript secara real-time. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 58,
+        "nama_website": "JS Info",
+        "kategori": "Dokumen",
+        "link_website": "https://javascript.info/",
+        "deskripsi": "JS Info adalah sebuah situs web yang menyediakan tutorial, artikel, dan sumber daya yang komprehensif tentang bahasa pemrograman JavaScript. Mereka membahas berbagai konsep dan fitur JavaScript, mulai dari dasar-dasar hingga topik yang lebih kompleks.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 59,
+        "nama_website": "Dev Mozila",
+        "kategori": "Dokumen",
+        "link_website": "https://developer.mozilla.org/en-US/",
+        "deskripsi": "Dev Mozilla adalah situs web resmi dari Mozilla yang menyediakan dokumentasi dan tutorial tentang pengembangan web. Mereka menawarkan sumber daya yang luas tentang HTML, CSS, JavaScript, serta teknologi web terkait lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 60,
+        "nama_website": "React Js",
+        "kategori": "Dokumen",
+        "link_website": "https://legacy.reactjs.org/docs/getting-started.html",
+        "deskripsi": "React JS adalah sebuah library JavaScript yang sangat populer untuk membangun antarmuka pengguna (UI) yang interaktif. Situs web React JS menyediakan dokumentasi resmi, tutorial, dan panduan pengembangan yang membantu pengembang",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 61,
+        "nama_website": "Vue Js",
+        "kategori": "Dokumen",
+        "link_website": "https://vuejs.org/guide/introduction.html",
+        "deskripsi": "Vue JS adalah sebuah framework JavaScript progresif yang digunakan untuk membangun antarmuka pengguna (UI). Situs web Vue JS menyediakan dokumentasi, tutorial, dan contoh pengkodean.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 62,
+        "nama_website": "Go",
+        "kategori": "Dokumen",
+        "link_website": "https://go.dev/doc/",
+        "deskripsi": "Go adalah sebuah bahasa pemrograman open-source yang dikembangkan oleh Google. Situs web resmi Go menyediakan dokumentasi, tutorial, dan referensi yang membantu para pengembang mempelajari dan menggunakan Go untuk membangun aplikasi yang efisien.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 63,
+        "nama_website": "Java",
+        "kategori": "Dokumen",
+        "link_website": "https://docs.oracle.com/en/java/",
+        "deskripsi": "Java adalah bahasa pemrograman yang populer untuk pengembangan aplikasi lintas platform. Situs web resmi Java menyediakan dokumentasi, tutorial, dan referensi yang luas tentang bahasa Java, serta framework dan alat pengembangan yang terkait. ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 64,
+        "nama_website": "Php",
+        "kategori": "Dokumen",
+        "link_website": "https://www.php.net/docs.php",
+        "deskripsi": "PHP adalah bahasa pemrograman yang banyak digunakan untuk pengembangan aplikasi web. Situs web PHP menyediakan dokumentasi resmi, tutorial, dan panduan pengembangan yang membantu menggunakan PHP dalam pembangunan situs web dinamis.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 65,
+        "nama_website": "Ts",
+        "kategori": "Dokumen",
+        "link_website": "https://www.typescriptlang.org/docs/",
+        "deskripsi": "TS (TypeScript) adalah bahasa pemrograman yang merupakan superset dari JavaScript. Situs web TypeScript menyediakan dokumentasi, tutorial, dan panduan pengembangan yang membantu pengembang memahami sintaksis dan fitur-fitur khas TypeScript.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 66,
+        "nama_website": "Laravel",
+        "kategori": "Dokumen",
+        "link_website": "https://laravel.com/docs/9.x/installation",
+        "deskripsi": "Laravel adalah sebuah framework PHP yang digunakan untuk pengembangan aplikasi web dengan pendekatan yang elegan dan efisien. Situs web Laravel menyediakan dokumentasi resmi, tutorial, dan sumber daya pengembangan",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 67,
+        "nama_website": "TomorrowsFilmMaker",
+        "kategori": "Vidio",
+        "link_website": "https://www.tomorrowsfilmmakers.com/",
+        "deskripsi": "TomorrowsFilmMaker adalah sebuah situs web yang menyediakan platform untuk pembuat film dan sineas masa depan. Situs ini menawarkan berbagai sumber daya, tutorial, dan artikel yang berguna bagi mereka yang tertarik dalam industri film dan perfilman.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 68,
+        "nama_website": "LarryJordan",
+        "kategori": "Vidio",
+        "link_website": "https://larryjordan.com/",
+        "deskripsi": "LarryJordan adalah seorang pakar di bidang produksi dan penyuntingan film. Situs web LarryJordan menyediakan berbagai tutorial dan pelatihan yang berfokus pada pengeditan video dan teknik produksi film.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 69,
+        "nama_website": "RocketStock",
+        "kategori": "Vidio",
+        "link_website": "https://www.shutterstock.com/video/elements",
+        "deskripsi": "RocketStock adalah situs web yang menyediakan berbagai sumber daya dan template untuk motion graphics dan efek visual yang menarik.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 70,
+        "nama_website": "PremiumBeat",
+        "kategori": "Vidio",
+        "link_website": "https://www.premiumbeat.com/blog/",
+        "deskripsi": "PremiumBeat adalah sebuah layanan yang menawarkan musik latar berkualitas tinggi untuk produksi film, video, dan proyek multimedia lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 71,
+        "nama_website": "FilmMakersAcademy",
+        "kategori": "Vidio",
+        "link_website": "https://www.filmmakersacademy.com/membership-pricing/",
+        "deskripsi": "FilmMakersAcademy adalah sebuah lembaga pendidikan online yang menawarkan kursus dan pelatihan dalam berbagai aspek pembuatan film.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 72,
+        "nama_website": "Photo.net",
+        "kategori": "Photo",
+        "link_website": "https://www.photo.net/",
+        "deskripsi": "Photo.net adalah sebuah komunitas online yang menyediakan platform bagi para fotografer untuk berbagi karya, mendapatkan umpan balik, dan belajar lebih lanjut tentang fotografi.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 73,
+        "nama_website": "BestPhotoLessons",
+        "kategori": "Photo",
+        "link_website": "https://www.bestphotolessons.com/",
+        "deskripsi": "BestPhotoLessons adalah sebuah situs web yang menawarkan berbagai pelajaran fotografi terbaik dari para instruktur berpengalaman. Mereka menyediakan kursus online, tutorial, dan tip praktis yang dirancang untuk membantu fotografer.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 74,
+        "nama_website": "CambridgeInColour",
+        "kategori": "Photo",
+        "link_website": "https://www.cambridgeincolour.com/",
+        "deskripsi": "CambridgeInColour adalah sumber daya online yang fokus pada topik-topik teknis dalam fotografi. Situs ini menyediakan artikel, tutorial, dan ilustrasi yang membahas tentang teori warna, pengukuran cahaya dan aspek-aspek teknis lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 75,
+        "nama_website": "DigitalPhotographySchool",
+        "kategori": "Photo",
+        "link_website": "https://digital-photography-school.com/",
+        "deskripsi": "DigitalPhotographySchool adalah situs web yang menyediakan berbagai artikel, tutorial, dan sumber daya untuk membantu para fotografer pemula dan berpengalaman.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 76,
+        "nama_website": "Fstoppers",
+        "kategori": "Photo",
+        "link_website": "https://fstoppers.com/",
+        "deskripsi": "Fstoppers adalah sebuah platform online yang menggabungkan fotografi dan videografi. Mereka menawarkan artikel, tutorial, dan konten berbasis video yang meliputi berbagai topik.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 77,
+        "nama_website": "PictureCorrect",
+        "kategori": "Photo",
+        "link_website": "https://www.picturecorrect.com/",
+        "deskripsi": "PictureCorrect adalah situs web yang menyediakan artikel dan tutorial tentang fotografi. Mereka menampilkan tips dan trik fotografi, panduan pemotretan, dan artikel yang mengulas berbagai topik seperti fotografi landscape, potret, makro, dan lainnya.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 78,
+        "nama_website": "Photography.tutplus",
+        "kategori": "Photo",
+        "link_website": "https://photography.tutsplus.com/",
+        "deskripsi": "Photography.tutplus adalah bagian dari jaringan tutorial online Envato Tuts+, yang menawarkan berbagai tutorial dan sumber daya untuk fotografi. Mereka menyediakan artikel, video tutorial, dan kursus online yang mencakup berbagai topik dalam fotografi.",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 79,
+        "nama_website": "SlrLounge",
+        "kategori": "Photo",
+        "link_website": "https://www.slrlounge.com/",
+        "deskripsi": "SlrLounge adalah sebuah platform pembelajaran online yang menyediakan sumber daya untuk fotografer profesional dan hobi. Mereka menawarkan kursus online, artikel tutorial, dan alat pembelajaran interaktif.",
+        "created_at": null,
         "updated_at": null
     }
 ]
