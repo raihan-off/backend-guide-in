@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nama_website": "Dicoding",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://www.dicoding.com/",
+        "deskripsi": "Website pembelajaran yang telah dipakai oleh banyak programmer di Indonesia",
+        "created_at": "2023-05-26T00:00:00.000000Z",
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nama_website": "Build With Angga",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://buildwithangga.com/",
+        "deskripsi": "Website pembelajaran coding",
+        "created_at": "2023-05-26T00:00:00.000000Z",
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "nama_website": "Petani Kode",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://www.petanikode.com/",
+        "deskripsi": "Course gratis",
+        "created_at": "2023-05-26T00:00:00.000000Z",
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nama_website": "DevSaurus",
+        "kategori": "Kursus Pembelajaran",
+        "link_website": "https://devsaurus.com/",
+        "deskripsi": "Course gratis",
+        "created_at": "2023-05-26T00:00:00.000000Z",
+        "updated_at": null
+    }
+]
